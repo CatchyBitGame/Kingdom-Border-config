@@ -1,12 +1,12 @@
 {
   "ios": {
     "min_version": "1.7.3",
-    "latest_version": "1.7.3",
+    "latest_version": "1.7.4",
     "store_url": "https://apps.apple.com/app/"
   },
   "android": {
     "min_version": "1.7.3",
-    "latest_version": "1.7.3",
+    "latest_version": "1.7.4",
     "store_url": "https://play.google.com/store/apps/"
   }
 }
